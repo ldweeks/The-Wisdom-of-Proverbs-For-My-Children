@@ -1,0 +1,5 @@
+book_filename: "the-wisdom-of-proverbs-for-my-children"
+language:
+  ui:
+    chapter_name: "Chapter "
+delete_merged_file: true

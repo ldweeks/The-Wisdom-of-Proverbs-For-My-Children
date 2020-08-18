@@ -1,0 +1,21 @@
+--- 
+title: "The Wisdom of Proverbs for my Children"
+author: "Lucas Weeks"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: ldweeks/The-Wisdom-of-Proverbs-For-My-Children
+description: "A topical walk through the book of Proverbs. For children. Scripture taken from the [World English Bible](https://ebible.org/web/)."
+---
+
+# Prerequisites (Should I give this another title?)
+
+Maybe my introduction should go here?
+
+## Technical Notes:
+
+Remember each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading `#`.

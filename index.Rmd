@@ -11,10 +11,6 @@ github-repo: ldweeks/The-Wisdom-of-Proverbs-For-My-Children
 description: "A topical walk through the book of Proverbs. For children. Scripture taken from the [World English Bible](https://ebible.org/web/)."
 ---
 
-# Prerequisites (Should I give this another title?)
+# Introduction
 
-Maybe my introduction should go here?
-
-## Technical Notes:
-
-Remember each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading `#`.
+At some point, I'd like to add an introduction.

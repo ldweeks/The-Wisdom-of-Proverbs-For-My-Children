@@ -14,3 +14,8 @@ description: "A topical walk through the book of Proverbs. For children. Scriptu
 # Introduction
 
 At some point, I'd like to add an introduction.
+
+Some things to talk about:
+
+- Difference between this book of wisdom and the philosophy of the Greeks and the Romans. It seems to me that this stuff is more about morality and practical life, whereas the greek stuff is about... philosophy.
+- Connection between wisdom personified and Christ
